@@ -1,0 +1,10 @@
+*.swp
+*~
+
+obj
+dwmstatus
+
+config.h
+config.mk
+modules.gen.h
+
